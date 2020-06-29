@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://tra123:tra123@devconnector-tatcr.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubclientId": "c4d2b8032c5eb83d3220",
+    "githubclienSecret": "22e5480cb2b32a629fcdb8c674f0829fff9d49d4"
+}
